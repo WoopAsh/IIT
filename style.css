@@ -1,0 +1,22 @@
+html, body {
+  background: #0B132B;
+  font-family: 'lato',
+  font-size: 16px
+  color: #50AAA9;
+}
+
+p {
+  font-size: lem;
+  line-height: 1.4em;
+  margin-bottom: 20px
+  color: #inherit;
+}
+
+  h1 {
+    border-bottom: 1px solid #5BC0BE;
+    padding: 20px 0 0;
+  }
+
+  h2 {
+    
+  }
